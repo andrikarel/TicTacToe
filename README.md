@@ -1,2 +1,2 @@
 # TicTacToe
-Síðannar verkefni fyrir hugbúnaðarfræði
+Síðannar verkefni fyrir hugbúnaðarfræði 2016
